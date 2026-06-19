@@ -1,0 +1,31 @@
+site_name: Finance Business Partner Academy
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+  - Frameworks:
+      - Frame 1: frameworks/frame1.md
+      - Frame 2: frameworks/frame2.md
+      - Frame 3: frameworks/frame3.md
+      - Frame 4: frameworks/frame4.md
+
+  - Stories:
+      - Standard Costing: stories/standard-costing.md
+      - Fixed Cost Absorption: stories/fixed-cost-absorption.md
+      - Gross Margin Bridge: stories/gross-margin-bridge.md
+      - CEO Cost Gap Analysis: stories/ceo-cost-gap-analysis.md
+      - Reporting Automation: stories/reporting-automation.md
+
+  - Vocabulary:
+      - Executive Vocabulary: vocabulary/executive-vocabulary.md
+      - Phrase Library: vocabulary/phrase-library.md
+
+  - Communication:
+      - Executive Communication: communication/executive-communication.md
+      - Common Mistakes: communication/common-mistakes.md
+
+  - Dashboard:
+      - Progress: dashboard/progress.md
