@@ -23,10 +23,14 @@ nav:
   - Vocabulary:
       - Executive Vocabulary: vocabulary/executive-vocabulary.md
       - Phrase Library: vocabulary/phrase-library.md
+      - Business Partner Vocabulary: vocabulary/business-partner-vocabulary.md
+      - Margin & Profitability Vocabulary: vocabulary/margin-profitability-vocabulary.md
+      - Factory & Operations Vocabulary: vocabulary/factory-operations-vocabulary.md
 
   - Communication:
       - Executive Communication: communication/executive-communication.md
       - Common Mistakes: communication/common-mistakes.md
+      - Concept Reality Rule: communication/concept-reality-rule.md
 
   - Dashboard:
       - Progress: dashboard/progress.md
