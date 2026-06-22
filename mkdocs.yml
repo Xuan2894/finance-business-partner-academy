@@ -16,7 +16,7 @@ nav:
   - Stories:
       - Standard Costing: stories/standard-costing.md
       - Fixed Cost Absorption: stories/fixed-cost-absorption.md
-      - Gross Margin Bridge: stories/gross-margin-bridge.md
+      - Gross Margin Bridge: stories/gross-margin-bridges.md
       - CEO Cost Gap Analysis: stories/ceo-cost-gap-analysis.md
       - Reporting Automation: stories/reporting-automation.md
 
