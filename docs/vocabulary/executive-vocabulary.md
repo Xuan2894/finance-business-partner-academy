@@ -1,13 +1,37 @@
-# Executive Vocabulary
+# Executive Phrases
 
-| Basic | Executive |
-|---------|---------|
-| Understand | Gain visibility into |
-| Know | Identify |
-| Help | Enable |
-| Improve | Enhance |
-| Save cost | Reduce cost |
-| Protect margin | Mitigate margin erosion |
-| Same understanding | Single version of the truth |
-| Check | Evaluate |
-| Decide | Make informed decisions |
+## Explaining Results
+
+The improvement was driven by...
+
+The decline was primarily caused by...
+
+The key contributor was...
+
+The main driver was...
+
+---
+
+## Explaining Impact
+
+This enabled the business to...
+
+This improved visibility into...
+
+This supported more effective decision-making.
+
+This strengthened margin management.
+
+This reduced operational complexity.
+
+---
+
+## Recommendations
+
+I would recommend focusing on...
+
+The largest opportunity lies in...
+
+The key risk is...
+
+The priority should be...
